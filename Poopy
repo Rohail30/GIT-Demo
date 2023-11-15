@@ -3,5 +3,5 @@ git status
 git commit -m "first commit"
 
 git add .
-git commit "First Commit"
+git commit -m "First Commit"
 git push
