@@ -1,3 +1,7 @@
 git add * --> copy all
 git status
 git commit -m "first commit"
+
+git add .
+git commit "First Commit"
+git push
