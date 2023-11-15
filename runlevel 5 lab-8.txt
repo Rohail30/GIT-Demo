@@ -1,0 +1,2 @@
+runlevel 5 
+ip add

@@ -1,0 +1,19 @@
+Sir ki website pr sb kuch h
+
+ssh-keygen -t rsa -b 4096
+
+4096(No of bits)
+
+enter 3x
+
+cd c:
+
+cd users/2012362/.ssh/
+
+cd c:
+
+$ ssh-copy-id rohail@192.168.223.132
+
+$ ssh rohail@192.168.223.132
+
+ab ap god level pr agae ho
